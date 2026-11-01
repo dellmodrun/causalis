@@ -4,7 +4,7 @@ CAUSALIS is a usable, local-first mandate auditor and downloadable Agent Skill f
 
 ## Live site
 
-`https://dellmodrun.github.io/causalis/`
+`https://causalis.run/`
 
 ## Local URL
 
