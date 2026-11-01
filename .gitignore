@@ -1,0 +1,14 @@
+cache/
+cache-v2/
+/*.png
+/*.cjs
+/rebrand.css
+/rebrand.js
+/static-server.mjs
+server.log
+server-error.log
+site/downloads/causalis-audit/scripts/__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+

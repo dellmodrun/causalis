@@ -1,0 +1,26 @@
+{
+  "agent": {
+    "name": "Example bounded agent",
+    "version": "1.0.0",
+    "chain": "solana"
+  },
+  "authority": {
+    "owner": "example-owner-public-identifier",
+    "allowedPrograms": [
+      "example-program-public-identifier"
+    ]
+  },
+  "limits": {
+    "perTransaction": 100,
+    "perDay": 500,
+    "denomination": "USDC"
+  },
+  "controls": {
+    "humanApprovalAbove": 50,
+    "emergencyStop": true
+  },
+  "audit": {
+    "logActions": true,
+    "retentionDays": 30
+  }
+}

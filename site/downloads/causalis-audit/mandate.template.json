@@ -1,0 +1,24 @@
+{
+  "agent": {
+    "name": "",
+    "version": "",
+    "chain": "solana"
+  },
+  "authority": {
+    "owner": "",
+    "allowedPrograms": []
+  },
+  "limits": {
+    "perTransaction": null,
+    "perDay": null,
+    "denomination": ""
+  },
+  "controls": {
+    "humanApprovalAbove": null,
+    "emergencyStop": false
+  },
+  "audit": {
+    "logActions": false,
+    "retentionDays": null
+  }
+}
